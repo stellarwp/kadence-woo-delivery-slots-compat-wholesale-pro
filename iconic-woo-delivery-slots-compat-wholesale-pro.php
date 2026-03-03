@@ -3,7 +3,7 @@
  * Plugin Name:     WooCommerce Delivery Slots by Kadence [WooCommerce Wholesale Pro]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
  * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and WooCommerce Wholesale Pro Plugin by Barn2.
- * Author:          Kadence WP
+ * Author:          Kadence
  * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-compat-41192
  * Domain Path:     /languages
